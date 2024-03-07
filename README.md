@@ -3,7 +3,7 @@ A vending machine prototype made through two microcontroller unit ESP32 that com
 \
 \
 \
-Contributors:
+Authors:
+- [G.Martedi](https://github.com/gae-m)
+- [B.Salzillo](https://github.com/bise97)
 - Luigi Cuccaro
-- Gaetano Martedì
-- Biagio Salzillo
